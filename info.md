@@ -12,3 +12,7 @@
     - What is 'ipykernel' ? 
         - It is a package -> It is a kernel for Jupyter notebook. It is used to run python code in Jupyter notebook.
 
+- Git add:
+    - `git add .`
+    - `git commit -m "Initial commit"`
+    - `git push -u origin main`
